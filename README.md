@@ -1,4 +1,6 @@
-# gulp-csslit [![Build Status](https://travis-ci.org/kcmr/gulp-csslit.svg?branch=master)](https://travis-ci.org/kcmr/gulp-csslit)
+# gulp-csslit [![Build Status](https://travis-ci.org/kcmr/gulp-csslit.svg?branch=master)](https://travis-ci.org/kcmr/gulp-csslit.svg?branch=master) [![Version](https://img.shields.io/npm/v/gulp-csslit.svg)](https://npmjs.org/package/gulp-csslit)
+
+[![NPM](https://nodei.co/npm/gulp-csslit.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-csslit/)
 
 > Writes CSS contents into a JavaScript file ready to be imported by a [LitElement](https://lit-element.polymer-project.org/) component.
 
@@ -50,3 +52,7 @@ class MyComponent extends LitElement {
   }
 }
 ```
+
+## License
+
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)
