@@ -1,6 +1,6 @@
 {
 	"name": "gulp-csslit",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Writes CSS contents into JavaScript files for use with LitElement",
 	"license": "MIT",
 	"repository": "kcmr/gulp-csslit",
